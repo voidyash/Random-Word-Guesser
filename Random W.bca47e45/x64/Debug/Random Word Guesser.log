@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Z:\coding journey\Random Word Guesser\Source.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\coding journey\Random Word Guesser\Source.cpp(48,16): warning C4566: character represented by universal-character-name '\U0001F601' cannot be represented in the current code page (1252)
+Z:\coding journey\Random Word Guesser\Source.cpp(48,16): warning C4566: character represented by universal-character-name '\U0001F389' cannot be represented in the current code page (1252)
+Z:\coding journey\Random Word Guesser\Source.cpp(78,18): warning C4566: character represented by universal-character-name '\U0001F3AF' cannot be represented in the current code page (1252)
+Z:\coding journey\Random Word Guesser\Source.cpp(82,18): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Random Word Guesser.vcxproj -> Z:\coding journey\Random Word Guesser\x64\Debug\Random Word Guesser.exe
